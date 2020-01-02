@@ -1,0 +1,24 @@
+{
+"products" : [
+  {"id":1,"name":"Macropus agilis","category":"Violet"},
+  {"id":2,"name":"Canis lupus baileyi","category":"Khaki"},
+  {"id":3,"name":"Haliaetus leucogaster","category":"Aquamarine"},
+  {"id":4,"name":"Nesomimus trifasciatus","category":"Yellow"},
+  {"id":5,"name":"Gyps bengalensis","category":"Green"},
+  {"id":6,"name":"Phacochoerus aethiopus","category":"Red"},
+  {"id":7,"name":"Leipoa ocellata","category":"Puce"},
+  {"id":8,"name":"Dasypus septemcincus","category":"Turquoise"},
+  {"id":9,"name":"Pseudocheirus peregrinus","category":"Violet"},
+  {"id":10,"name":"Ramphastos tucanus","category":"Blue"},
+  {"id":11,"name":"Falco mexicanus","category":"Purple"},
+  {"id":12,"name":"Geococcyx californianus","category":"Fuscia"},
+  {"id":13,"name":"Oryx gazella callotis","category":"Mauv"},
+  {"id":14,"name":"Madoqua kirkii","category":"Khaki"},
+  {"id":15,"name":"Vanessa indica","category":"Goldenrod"},
+  {"id":16,"name":"Rana sp.","category":"Khaki"},
+  {"id":17,"name":"Acrantophis madagascariensis","category":"Blue"},
+  {"id":18,"name":"Larus fuliginosus","category":"Orange"},
+  {"id":19,"name":"Physignathus cocincinus","category":"Khaki"},
+  {"id":20,"name":"Hydrochoerus hydrochaeris","category":"Fuscia"}
+]
+}
